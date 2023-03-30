@@ -7,3 +7,7 @@ function HomePage () {
 }
 
 export default HomePage;
+
+
+import React from "react";
+
